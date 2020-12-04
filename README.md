@@ -8,4 +8,4 @@
 ‣ C# <br />
 ‣ SQL <br />
 
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=necrotics&show_icons=true&hide_border=false)
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=xylophonic&show_icons=true&hide_border=false)
