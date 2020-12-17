@@ -1,5 +1,5 @@
 ### zin
-‣ endo㸚#5873 - DM for any questions
+‣ zin#5873 - DM for any questions
 
 ### languages
 ‣ Python <br />
