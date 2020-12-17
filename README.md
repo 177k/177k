@@ -9,5 +9,3 @@
 ‣ SQL <br />
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=97s&show_icons=true&hide_border=false)
-<br />
-[![HitCount](http://hits.dwyl.com/97s/97s.svg)](http://hits.dwyl.com/97s)
