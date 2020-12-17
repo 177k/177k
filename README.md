@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=97s&label=Profile%20views&color=0e75b6&style=flat" alt="97s" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucoaaufi_qrpdiwc-rzyxtlw?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucoaaufi_qrpdiwc-rzyxtlw?view_as=subscriber" height="30" width="40" /></a>
 </p>
