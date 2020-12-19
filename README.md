@@ -1,4 +1,4 @@
-<h1 align="center">Zin | Software Developer \ Engineer</h1>
+<h1 align="center">Zin | Software Developer</h1>
 <h3 align="center">Add my discord: zin#5873</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=97s&label=Profile%20views&color=0e75b6&style=flat" alt="97s" /> </p>
