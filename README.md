@@ -5,4 +5,4 @@
 <p align="center">discord: invoke#1000<br/>
 <p align="center">youtube: invoke<br/>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=97s&label=views&color=0e75b6&style=flat" alt="97s" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=disassociate&label=views&color=0e75b6&style=flat" alt="disassociate" /> </p>
