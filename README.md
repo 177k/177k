@@ -1,6 +1,6 @@
 <h1 align="center">@invoke</h1>
 
-<p align="center> <img src="https://cdn.discordapp.com/attachments/788476349265608734/793996765183213650/2e93ceb15c58480879d348b43f908743.gif" /> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/788476349265608734/793996765183213650/2e93ceb15c58480879d348b43f908743.gif" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=97s&label=Profile%20views&color=0e75b6&style=flat" alt="97s" /> </p>
 
 <h3 align="left">Socials:</h3>
