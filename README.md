@@ -9,4 +9,4 @@
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
 </p>  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pseudorw&label=views&color=0e75b6&style=flat" alt="disassociate" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pseudorsw&label=views&color=0e75b6&style=flat" alt="disassociate" /> </p>
