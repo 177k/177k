@@ -1,4 +1,4 @@
-<h1 align="center">@sudo/erik</h1>
+<h1 align="center">@crow</h1>
 
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/788476349265608734/793996765183213650/2e93ceb15c58480879d348b43f908743.gif" /> </p>
 <p align="center">  
