@@ -4,7 +4,7 @@
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
 </p>
-<p align="center">discord: thomas "2trappy" shaw#2977<br/>
+<p align="center">discord: thomas shaw#2977<br/>
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
 </p>  
