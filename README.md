@@ -7,4 +7,3 @@
 <p align="center">discord: iuoa#8201<br/>
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
- (https://komarev.com/ghpvc/?username=iuoa&color=green)
